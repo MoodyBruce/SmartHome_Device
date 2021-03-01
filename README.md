@@ -6,7 +6,10 @@ Introduce
 get the temperature and the humidity information from the SHT30 sensor on board
 show the information on the 0.96" OLED screen
 upload the information to the tuya cloud that I can see the temperature and the humidity in tuya APP.
+
+
 Video
+=
 In my oshw project
 
 Hardware
