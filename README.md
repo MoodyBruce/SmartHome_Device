@@ -20,7 +20,7 @@ SHT30 temperature and humidity sensor
 
 SSD1306 0.96"OLED screen
 
-STM32G431CBT6 microcontroller
+APM32F030C8T6 microcontroller
 
 PCB Link
 
@@ -37,6 +37,6 @@ Todo
 This is the first board to use the Tuya module. And it actually expose some problems.
 
 the LDO is too hot to influence the temperature sensor, maybe 2 or 3 degrees.
-The MCU is a little expensive. Although I buy it(STM32G031CBT6) for only about 10RMB, it is inappropriate to use a high performance MCU to do such a little thing.
+The MCU is a little expensive. Although I buy it(APM32F030C8T6) for only about 10RMB, it is inappropriate to use a high performance MCU to do such a little thing.
 The fixing way of the OLED, using female header and male pin, is unreliable.
 The USB2TTL chip CH340 and the flash chip may unused.
