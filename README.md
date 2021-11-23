@@ -40,3 +40,7 @@ the LDO is too hot to influence the temperature sensor, maybe 2 or 3 degrees.
 The MCU is a little expensive. Although I buy it(APM32F030C8T6) for only about 10RMB, it is inappropriate to use a high performance MCU to do such a little thing.
 The fixing way of the OLED, using female header and male pin, is unreliable.
 The USB2TTL chip CH340 and the flash chip may unused.
+
+Test
+=
+This is a sentence to test the branches function of the github. 
